@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomKeyboard</string>
+    <string name="keyboard_name">NewKeyboard</string>
+</resources>
